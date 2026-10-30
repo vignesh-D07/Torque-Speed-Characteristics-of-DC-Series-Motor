@@ -34,14 +34,24 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 13.	Save the file. 
 14.	Analyze and record your inference.
 
+# Simulation Output:
+<img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/dc1f756a-d715-4efd-8555-5c9d989a52c7" />
+
+
 ## Observation Table
 
-<img width="667" height="291" alt="image" src="https://github.com/user-attachments/assets/3a8feaf2-add6-4d8c-b651-efc1a7ebbb91" />
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/f2cae493-e711-42cc-af6b-eb8a6050cb1f" />
+
 
 ## Output graph
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e2c93904-fb7f-46c5-9769-9d97c58e35d4" />
+
 
 
 ## Simulated Output waveform
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/26195de5-ebf8-43fe-bc5f-0a12d10119f7" />
+
 
 
 ## RESULT.
+The speed of the DC series motor decreases non-linearly as the load torque increases, showing a characteristic inverse relationship between speed and load torque.
